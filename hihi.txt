@@ -9,3 +9,4 @@ from iit bhu as well
 from stanc
 from barmer
 from jodhpur
+from rajasthan
