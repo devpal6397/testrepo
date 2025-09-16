@@ -10,3 +10,4 @@ from stanc
 from barmer
 from jodhpur
 from rajasthan
+form india
